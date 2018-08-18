@@ -26,7 +26,8 @@ else:
             pass
         else:
             if(choice == 4):
-                pass
+                execfile ('webcam.py')
+                print "\n"
             else:
                 if(choice == 5):
                     pass
