@@ -43,7 +43,8 @@ else:
                                 pass
                             else:
                                 if(choice == 9):
-                                    pass
+                                    execfile ('logout.py')
+                                    print "\n"
                                 else:
                                     if(choice == 10):
                                         print "Exit"
