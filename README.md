@@ -8,5 +8,5 @@ python -m pip install opencv-python
 -- install requests
 python.exe -m pip install requests
 
--- install beautifulsopu4
+-- install beautifulsoup4
 python -m pip install beautifulsoup4
