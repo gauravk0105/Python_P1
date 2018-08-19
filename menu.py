@@ -41,7 +41,7 @@ else:
                             pass
                         else:
                             if(choice == 8):
-                                pass
+                                execfile ('fetchT_5URL.py')
                             else:
                                 if(choice == 9):
                                     execfile ('logout.py')
