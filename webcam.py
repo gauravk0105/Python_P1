@@ -1,4 +1,12 @@
 #!usr/bin/python
+
+"""
+    write in cmd to install opencv
+    
+    python -m pip install --upgrade pip
+    python -m pip install opencv-python
+"""
+
 import cv2
 
 cv2.namedWindow("preview")

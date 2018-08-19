@@ -23,7 +23,8 @@ else:
         pass
     else:
         if(choice == 3):
-            pass
+            execfile ('openBrowser.py')
+            print "\n"
         else:
             if(choice == 4):
                 execfile ('webcam.py')
